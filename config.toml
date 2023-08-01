@@ -1,4 +1,4 @@
-baseURL = "http://bulhwi.github.io/"
+baseURL = "https://bulhwi.github.io/"
 languageCode = "en-us"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
