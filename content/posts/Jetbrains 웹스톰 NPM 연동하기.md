@@ -6,7 +6,7 @@ date: 2020-05-25T01:06:18+09:00
 # 웹스톰에서 NPM 연동하기.
 프론트엔드 개발 툴로 사용중인 웹스톰에서 NPM을 연동하여 'ctrl + shift + f10' 단축기로 간단하게 실행 할수있다.
 
-## 1. package.json 설정 방법!!!!!!!!.
+## 1. package.json 설정 방법.
 ```json
  "scripts": {
     "build": "hexo generate --deploy",
