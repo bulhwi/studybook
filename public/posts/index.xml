@@ -67,7 +67,7 @@ VueJS 프로젝트 구성하기. 프로젝트 루트경로에 &amp;lsquo;fronten
       <author>mm225012@gmail.com (pbh)</author>
       <guid>https://bulhwi.github.io/jetbrains-%EC%9B%B9%EC%8A%A4%ED%86%B0-npm-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/</guid>
       <description>웹스톰에서 NPM 연동하기. 프론트엔드 개발 툴로 사용중인 웹스톰에서 NPM을 연동하여 &amp;lsquo;ctrl + shift + f10&amp;rsquo; 단축기로 간단하게 실행 할수있다.
-1. package.json 설정 방법!!!!!!!!. 1 2 3 4 5 6 &amp;#34;scripts&amp;#34;: { &amp;#34;build&amp;#34;: &amp;#34;hexo generate --deploy&amp;#34;, &amp;#34;clean&amp;#34;: &amp;#34;hexo clean&amp;#34;, &amp;#34;deploy&amp;#34;: &amp;#34;hexo deploy&amp;#34;, &amp;#34;server&amp;#34;: &amp;#34;hexo server&amp;#34; }, &amp;rsquo;npm run ***&amp;lsquo;으로 위에서 정의된 명령어를 사용할 수 있다. hexo에서 사용가능한 명령어를 설정하였다.
+1. package.json 설정 방법. 1 2 3 4 5 6 &amp;#34;scripts&amp;#34;: { &amp;#34;build&amp;#34;: &amp;#34;hexo generate --deploy&amp;#34;, &amp;#34;clean&amp;#34;: &amp;#34;hexo clean&amp;#34;, &amp;#34;deploy&amp;#34;: &amp;#34;hexo deploy&amp;#34;, &amp;#34;server&amp;#34;: &amp;#34;hexo server&amp;#34; }, &amp;rsquo;npm run ***&amp;lsquo;으로 위에서 정의된 명령어를 사용할 수 있다. hexo에서 사용가능한 명령어를 설정하였다.
 2. Add Configuration 클릭. 이미지에서 처럼 &amp;lsquo;package.json&amp;rsquo;파일의 경로를 잡아주고 Scripts항목에 &amp;lsquo;package.json&amp;rsquo;파일에서 설정한 명령어들을 넣어주면 &amp;lsquo;ctrl + shift + f10&amp;rsquo;단축키로 편하게 작업이 가능해진다.</description>
     </item>
     
